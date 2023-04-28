@@ -30,5 +30,4 @@ Platforms & Languages
 
 [![Solved.ac
 tier](http://mazassumnida.wtf/api/generate_badge?boj=jdy0210)](https://solved.ac/jdy0210)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdy0120)](https://github.com/anuraghazra/github-readme-stats)
