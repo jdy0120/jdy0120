@@ -27,4 +27,4 @@ Platforms & Languages
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/v2/generate_badge?boj=jdy0210)](https://solved.ac/jdy0210)
+tier](http://mazassumnida.wtf/v2/generate_badge?boj=jdy0210)](https://solved.ac/jdy0210)
