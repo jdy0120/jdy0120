@@ -28,3 +28,4 @@ Platforms & Languages
 
 [![Solved.ac
 tier](http://mazassumnida.wtf/api/generate_badge?boj=jdy0210)](https://solved.ac/jdy0210)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdy0120)](https://github.com/anuraghazra/github-readme-stats)
