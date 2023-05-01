@@ -21,8 +21,10 @@ Platforms & Languages
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdy0120&hide=html,css&langs_count=10&layout=compact&theme=dark)](https://github.com/jdy0120/jdy0120)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdy0120)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdy0120&hide=html,css&langs_count=8&layout=compact&theme=dark)](https://github.com/jdy0120/jdy0120)
+
+#Algorithm Skills
+
 [![Solved.ac
 tier](http://mazassumnida.wtf/api/generate_badge?boj=jdy0210)](https://solved.ac/jdy0210)
