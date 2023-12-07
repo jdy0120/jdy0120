@@ -1,6 +1,6 @@
 🤞 Welcome My Space!
 
-👋 Hi there! I'm frontend developer Doyeonism.🚀 a developer from Republic of korea
+👋 Hi there! I'm developer Doyeonism.🚀 a developer from Republic of korea
 
 💪 Skills
 Platforms & Languages
