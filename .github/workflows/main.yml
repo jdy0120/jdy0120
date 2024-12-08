@@ -10,12 +10,10 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Check Environment Variables
-        run: env
       - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "ko"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
