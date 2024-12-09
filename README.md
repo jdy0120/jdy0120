@@ -22,6 +22,14 @@ Platforms & Languages
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
+<hr />
+
+</div
+
+⏱️ Code Time
+
+<div align="center">
+
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -55,6 +63,8 @@ Platforms & Languages
 Last Updated on 09/12/2024 00:40:13 UTC
 
 <!--END_SECTION:waka-->
+
+<hr />
 
 #Algorithm Skills
 
