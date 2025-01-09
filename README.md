@@ -31,8 +31,6 @@ Platforms & Languages
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
@@ -59,7 +57,7 @@ Platforms & Languages
 ```
 
 
- Last Updated on 08/01/2025 18:41:15 UTC
+ Last Updated on 09/01/2025 18:41:55 UTC
 <!--END_SECTION:waka-->
 
 <hr />
